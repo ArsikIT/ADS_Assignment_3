@@ -1,5 +1,4 @@
 MyHashTable and Binary Search Tree (BST) Implementation in Java
-This project contains two fundamental data structure implementations:
 
 MyHashTable: A custom hash table implementation using separate chaining (linked lists).
 
